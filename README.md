@@ -13,18 +13,18 @@ Zillow datasets
 
 We first looked at overall weather trends for the United States for the 2000 - 2020 timespan. Specifically, we analyzed the number of significant weather events and their economic impact and lethality on the surrounding regions. This was achieved by Andrew using the below process: 
 
-Code File Name: project1_weathercsv.ipynb
-Graphs:
-Strm_freeze_freq2.png
-Weather_fatality.png
-Weather_fatality_sum.png
-Wevents_freq1.png
-Code Function:
-Import downloaded CSV files from National Weather Service
-Convert csv files into pandas dataframe
-Combine dataframes into one single frame
-Remove excessive/unnecessary columns and associated data from combined dataframe
-Parse data relevant to questions posed in the project proposal and use to create graphs that would provide relevant, clear insights into macro weather trends across the united states from 2000 to 2020
+Code File Name: project1_weathercsv.ipynb  
+Graphs:  
+Strm_freeze_freq2.png  
+Weather_fatality.png  
+Weather_fatality_sum.png  
+Wevents_freq1.png  
+Code Function:  
+Import downloaded CSV files from National Weather Service  
+Convert csv files into pandas dataframe  
+Combine dataframes into one single frame  
+Remove excessive/unnecessary columns and associated data from combined dataframe  
+Parse data relevant to questions posed in the project proposal and use to create graphs that would provide relevant, clear insights into macro weather trends across the united states from 2000 to 2020  
 
 As is described in the project1_weathercsv.ipynb file and powerpoint located in this repository, we found that the number of weather events and their severity did increase in the US from 2000 - 2020.
 
