@@ -6,10 +6,10 @@ Are severe weather events becoming more destructive over time?
 What is the effect of weather patterns on home prices?
 
 Data Sources Used:
-NOAA web services API, 
-Openweather API, 
-Kaggle USA Real Estate dataset,  
-Zillow datasets 
+NOAA web services API   
+Openweather API  
+Kaggle USA Real Estate dataset    
+Zillow datasets  
 
 We first looked at overall weather trends for the United States for the 2000 - 2020 timespan. Specifically, we analyzed the number of significant weather events and their economic impact and lethality on the surrounding regions. This was achieved by Andrew using the below process: 
 
